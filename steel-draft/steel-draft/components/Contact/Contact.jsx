@@ -54,7 +54,7 @@ const Contact = () => {
             Tell us about your structural steel requirements, and our team will
             work with you to provide the right fabrication and engineering
             solutions. Share your project details and drawings to receive a
-            tailored quotation based on your specifications2.
+            tailored quotation based on your specifications.
           </p>
         </div>
 
